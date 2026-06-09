@@ -256,7 +256,7 @@ export default function Home() {
                     value={formData.doctor_name}
                     onChange={handleChange}
                     required
-                    placeholder="Dr. John Doe"
+                    placeholder="Dr. Ranganth V"
                     className="w-full px-3 py-2.5 border border-slate-300 rounded-lg focus:ring-2 focus:ring-amber-500 focus:border-transparent outline-none transition text-sm"
                   />
                 </div>
@@ -275,7 +275,7 @@ export default function Home() {
                     value={formData.email_address}
                     onChange={handleChange}
                     required
-                    placeholder="john@example.com"
+                    placeholder="example@domain.com"
                     className="w-full px-3 py-2.5 border border-slate-300 rounded-lg focus:ring-2 focus:ring-amber-500 focus:border-transparent outline-none transition text-sm"
                   />
                 </div>
@@ -294,7 +294,7 @@ export default function Home() {
                     value={formData.registration_number}
                     onChange={handleChange}
                     required
-                    placeholder="KSDC-12345"
+                    placeholder="56497 A"
                     className="w-full px-3 py-2.5 border border-slate-300 rounded-lg focus:ring-2 focus:ring-amber-500 focus:border-transparent outline-none transition text-sm"
                   />
                 </div>
@@ -313,7 +313,7 @@ export default function Home() {
                     value={formData.phone_number}
                     onChange={handleChange}
                     required
-                    placeholder="+91 98765 43210"
+                    placeholder="9731339077"
                     className="w-full px-3 py-2.5 border border-slate-300 rounded-lg focus:ring-2 focus:ring-amber-500 focus:border-transparent outline-none transition text-sm"
                   />
                 </div>
