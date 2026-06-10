@@ -33,14 +33,14 @@ const sessions = [
   {
     id: 3,
     title: "Consumer Protection Act (CPA) & The Dentist",
-    date: "Saturday, 27 June 2026",
+    date: "Saturday, 4 July 2026",
     time: "1:00 PM – 2:00 PM",
     topics: ["Consumer Redressal Commission", "Professional indemnity insurance", "Legal notice response"],
   },
   {
     id: 4,
     title: "Defensive Dentistry in the Digital Age",
-    date: "Saturday, 4 July 2026",
+    date: "Saturday, 11 July 2026",
     time: "1:00 PM – 2:00 PM",
     topics: ["Manual to digital records", "Post-operative instructions", "Litigation-proof workflow"],
   },
